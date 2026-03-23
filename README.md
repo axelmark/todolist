@@ -34,8 +34,6 @@
    git clone https://github.com/axelmark/todolist.git
    cd todolist
 
-
-
 ---
 
 ### API Endpoints
@@ -54,7 +52,7 @@
 **тело запроса:**
 
 {
-"title": "Купить молоко",
-"description": "Не забыть про кефир",
-"completed": false
+   "title": "Купить молоко",
+   "description": "Не забыть про кефир",
+   "completed": false
 }
